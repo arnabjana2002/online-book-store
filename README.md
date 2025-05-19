@@ -4,8 +4,8 @@ A full-stack Online Book Store web application that allows customers to browse a
 
 ## 🔗 Project Links
 
-- **Frontend Repository**: [Frontend GitHub Link](Frontend Github Link)
-- **Backend Repository**: [Backend GitHub Link](Backend Github Link)
+- **Frontend Repository**: [[Frontend GitHub Link](https://github.com/arnabjana2002/book-app-frontend)](Frontend Github Link)
+- **Backend Repository**: [[Backend GitHub Link](https://github.com/arnabjana2002/book-app-backend)](Backend Github Link)
 
 ## 🚀 Features
 
